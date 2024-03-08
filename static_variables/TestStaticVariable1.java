@@ -1,3 +1,4 @@
+package java_tutorial.static_variables;
 
 //java program to demonstrate the use of static variable
 class Student{
